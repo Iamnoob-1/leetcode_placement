@@ -36,7 +36,7 @@ public:
                 for (int i=0;i<8;i++){
                 int nx=x+dx[i];
                 int ny=y+dy[i];
-                if (nx>=0 && ny>=0 && nx<n && ny<m && board[nx][ny]=='E'&&!visited[nx][ny]){
+                if (nx>=0 && ny>=0 && nx<n && ny<m &&!visited[nx][ny]){
                     visited[nx][ny]=true;
                     q.push({nx,ny});
                 }
