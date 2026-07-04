@@ -111,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -137,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
