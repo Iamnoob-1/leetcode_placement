@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
