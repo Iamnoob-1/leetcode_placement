@@ -3,7 +3,12 @@ public:
     long long findtime(vector<int>&piles,int speed){
         long long totalhours=0;
         for (int i=0;i<piles.size();i++){
-            totalhours += (piles[i] + speed - 1) / speed;
+            if (piles[i]%speed==0){
+                totalhours+=piles[i]/speed;
+            }
+            else{
+                totalhours+=piles[i]/speed+1;
+            }
         }
         return totalhours;
     }
