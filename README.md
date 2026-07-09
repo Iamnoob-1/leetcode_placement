@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
