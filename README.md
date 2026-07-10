@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
