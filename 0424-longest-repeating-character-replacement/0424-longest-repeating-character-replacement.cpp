@@ -1,0 +1,21 @@
+class Solution {
+public:
+    int characterReplacement(string s, int k) {
+        int i=0;
+        int j=0;
+        int ans=0;
+        int maxi=0;
+        unordered_map<char,int>freq;
+        for (int j=0;j<s.size();j++){
+            freq[s[j]]++;
+            maxi=max(maxi,freq[s[j]]);
+            while (j-i+1-maxi>k){
+                freq[s[i]]--;
+                i++;
+            }
+            ans=max(ans,j-i+1);
+        }
+        return ans;
+
+    }
+};
