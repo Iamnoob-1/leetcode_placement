@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0876-middle-of-the-linked-list) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0237-delete-node-in-a-linked-list) |
