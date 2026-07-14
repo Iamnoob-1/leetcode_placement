@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
