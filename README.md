@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
@@ -233,4 +234,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
