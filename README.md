@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
