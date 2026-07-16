@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0216-combination-sum-iii) |
