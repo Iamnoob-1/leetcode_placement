@@ -1,9 +1,9 @@
 class Solution {
 public:
-    // int gcd(int a ,int b){
-    //     if (b==0)return a;
-    //     gcd(b,a%b);
-    // }
+    int gcd(int a ,int b){
+        if (b==0)return a;
+        return gcd(b,a%b);
+    }
     long long gcdSum(vector<int>& nums) {
         vector<int>prefixgcd;
         int maxi=INT_MIN;
