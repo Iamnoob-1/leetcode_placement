@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
