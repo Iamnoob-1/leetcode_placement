@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int recursion(TreeNode *root,int& maxi){
+    int recursion(TreeNode*root,int &maxi){
         if (!root)return 0;
         int lh=recursion(root->left,maxi);
         int rh=recursion(root->right,maxi);
