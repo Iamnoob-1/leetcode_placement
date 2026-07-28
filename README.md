@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0347-top-k-frequent-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0207-course-schedule) |
