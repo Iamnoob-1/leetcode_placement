@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2404-most-frequent-even-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2404-most-frequent-even-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2404-most-frequent-even-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3286-find-a-safe-walk-through-a-grid) |
