@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Greedy
