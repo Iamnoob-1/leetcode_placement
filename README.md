@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
