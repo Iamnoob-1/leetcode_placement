@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
