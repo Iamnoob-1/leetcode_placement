@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3536-maximum-product-of-two-digits) |
@@ -514,4 +517,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
