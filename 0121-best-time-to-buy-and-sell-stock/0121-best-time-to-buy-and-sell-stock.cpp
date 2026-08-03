@@ -1,23 +1,13 @@
 class Solution {
 public:
-    int recursion(int idx,int buy,vector<int>&prices,vector<vector<int>>&dp){
-        if (idx>=prices.size())return 0;
-        if (dp[idx][buy]!=-1)return dp[idx][buy];
-        if (buy){
-            int take=recursion(idx+1,0,prices,dp)-prices[idx];
-
-            int nottake=recursion(idx+1,1,prices,dp);
-            return dp[idx][buy]=max(take,nottake);
-        }
-        else{
-            int sell=prices[idx];
-            int skip=recursion(idx+1,0,prices,dp);
-            return dp[idx][buy]=max(sell,skip);
-        }
-    }
     int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>>dp(n,vector<int>(2,-1));
-        return recursion(0,1,prices,dp);
+        int maxi=INT_MIN;
+        int mincosttillindexi=prices[0];
+        for(int i=1;i<prices.size();i++){
+            int cost=prices[i]-mincosttillindexi;
+            maxi=max(maxi,cost);
+            mincosttillindexi=min(mincosttillindexi,prices[i]);
+        }
+        return maxi<0?0:maxi;
     }
 };
