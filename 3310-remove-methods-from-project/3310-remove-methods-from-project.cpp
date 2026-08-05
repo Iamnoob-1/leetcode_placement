@@ -1,11 +1,9 @@
 class Solution {
 public:
-unordered_set<int>st;
     void dfs(int node,vector<vector<int>>&adj,vector<bool>&visited){
         visited[node]=true;
         for (auto it:adj[node]){
             if(!visited[it]){
-                st.insert(it);
                 dfs(it,adj,visited);
             }
         }
@@ -16,7 +14,6 @@ unordered_set<int>st;
             adj[it[0]].push_back(it[1]);
         }
         vector<bool>visited(n,false);
-        st.insert(k);
         dfs(k,adj,visited);
          for (auto it : invocations) {
             int u = it[0];
@@ -24,7 +21,7 @@ unordered_set<int>st;
 
             if (!visited[u] && visited[v]) {
                 vector<int> ans;
-                for (int i =0; i < n; i++)
+                for (int i =0;i<n;i++)
                     ans.push_back(i);
                 return ans;
             }
@@ -35,20 +32,7 @@ unordered_set<int>st;
                 ans.push_back(i);
         }
         return ans;
-        // for (auto it:st){
-        //     cout<<it;
-        // }
-        // return {};
-        vector<bool>suspicious=visited;
-        // for (int i=0;i<n;i++){
-        //     if (!suspicious[i]){
-        //         dfs2(i,adj,suspicious);
-        //     }
-        // }
-        // for (int i=0;i<visited.size();i++){
-        //     cout<<suspicious[i];
-        // }
-        return {};
+        
 
 
     }
