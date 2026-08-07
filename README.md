@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
+| [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2685-count-the-number-of-complete-components) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1020-number-of-enclaves) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -531,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
