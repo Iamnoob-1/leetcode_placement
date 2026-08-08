@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0202-happy-number) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
