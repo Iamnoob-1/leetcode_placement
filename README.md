@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Greedy
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -578,4 +581,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0187-repeated-dna-sequences) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
