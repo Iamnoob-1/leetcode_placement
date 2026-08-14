@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0130-surrounded-regions) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
