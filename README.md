@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2404-most-frequent-even-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3536-maximum-product-of-two-digits) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -596,10 +601,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -608,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
