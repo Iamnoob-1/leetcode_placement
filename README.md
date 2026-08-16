@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
