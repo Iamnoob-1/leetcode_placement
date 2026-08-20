@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3731-find-missing-elements) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
 |  |
