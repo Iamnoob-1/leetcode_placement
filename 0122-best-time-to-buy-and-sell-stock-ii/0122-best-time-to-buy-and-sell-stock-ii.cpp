@@ -4,8 +4,7 @@ public:
         if (idx>=prices.size())return 0;
         if (dp[idx][buy]!=-1)return dp[idx][buy];
         if (buy){
-            int take=recursion(idx+1,0,prices,dp)-prices[idx];
-
+            int take=-prices[idx]+recursion(idx+1,0,prices,dp);
             int nottake=recursion(idx+1,1,prices,dp);
             return dp[idx][buy]=max(take,nottake);
         }
