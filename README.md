@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0187-repeated-dna-sequences) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0198-house-robber) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0213-house-robber-ii) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 ## Game Theory
 |  |
 | ------- |
@@ -683,4 +688,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
