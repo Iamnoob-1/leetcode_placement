@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
