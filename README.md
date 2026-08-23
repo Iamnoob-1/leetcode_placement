@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
@@ -635,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -650,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
 ## Combinatorics
