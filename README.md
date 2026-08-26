@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0743-network-delay-time) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
