@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0091-decode-ways) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0115-distinct-subsequences) |
