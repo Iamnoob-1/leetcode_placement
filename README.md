@@ -731,4 +731,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
