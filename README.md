@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1260-shift-2d-grid) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0743-network-delay-time) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
+| [1094-car-pooling](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/3867-sum-of-gcd-of-formed-pairs) |
