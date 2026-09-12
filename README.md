@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0063-unique-paths-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0062-unique-paths) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 ## Trie
