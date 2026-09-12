@@ -7,20 +7,12 @@ public:
             int f=it[0];
             int s=it[1];
             int r=it[2];
-            seat.push_back({f,r});
-            seat.push_back({s+1,-r});
+            ans[f-1]+=r;
+            if(s<n)ans[s]-=r;
         }
-        sort(seat.begin(),seat.end());
-        int currsum=0;
-        int j = 0;
-        for (int i=1;i<=n;i++){
-            while (j<seat.size()&&seat[j].first==i) {
-                currsum += seat[j].second;
-                j++;
-            }
-            ans[i-1]=currsum;
+        for (int i=1;i<n;i++){
+            ans[i]+=ans[i-1];
         }
-
         return ans;
 
 
