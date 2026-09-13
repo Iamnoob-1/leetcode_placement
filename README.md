@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0851-loud-and-rich) |
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0846-hand-of-straights) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0860-lemonade-change](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/2029-stone-game-ix) |
