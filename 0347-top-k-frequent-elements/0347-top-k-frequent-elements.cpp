@@ -18,7 +18,6 @@ public:
             ans.push_back(pq.top().second);
             pq.pop();
         }
-
         return ans;
     }
 };
