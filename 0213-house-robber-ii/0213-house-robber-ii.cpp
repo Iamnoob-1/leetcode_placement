@@ -1,13 +1,13 @@
 class Solution {
 public:
-    int recursion(vector<int>& nums, int n, vector<int>& dp) {
-        if (n == 0) return nums[0];
-        if (n == 1) return max(nums[0], nums[1]);
-        if (dp[n] != -1) return dp[n];
+    int recursion(vector<int>& nums,int idx,vector<int>& dp) {
+        if (idx==0) return nums[0];
+        if (idx== 1) return max(nums[0],nums[1]);
+        if (dp[idx]!=-1)return dp[idx];
 
-        int pick = nums[n] + recursion(nums, n - 2, dp);
-        int notPick = recursion(nums, n - 1, dp);
-        return dp[n] = max(pick, notPick);
+        int take=nums[idx]+recursion(nums,idx-2,dp);
+        int nottake=recursion(nums,idx-1,dp);
+        return dp[idx]=max(take,nottake);
     }
 
     int rob(vector<int>& nums) {
