@@ -5,5 +5,5 @@ where num in(
     select num
     from mynumbers
     group by num
-    having count(num)=1
+    having count(*)=1
 )
