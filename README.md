@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 ## Trie
 |  |
