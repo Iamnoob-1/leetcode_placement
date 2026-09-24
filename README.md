@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0621-task-scheduler) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1021-remove-outermost-parentheses) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
 | [0853-car-fleet](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0853-car-fleet) |
 ## Trie
 |  |
