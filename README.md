@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0202-happy-number) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0234-palindrome-linked-list) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -865,4 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
