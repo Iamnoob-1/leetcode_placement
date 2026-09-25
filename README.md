@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0503-next-greater-element-ii) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
