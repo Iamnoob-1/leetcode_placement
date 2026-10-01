@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0146-lru-cache) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0152-maximum-product-subarray) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0785-is-graph-bipartite) |
