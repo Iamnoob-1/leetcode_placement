@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0128-longest-consecutive-sequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0055-jump-game) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0148-sort-list) |
