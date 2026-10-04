@@ -5,16 +5,12 @@ public:
             ans.push_back(subset);
             return ;
         }
-        //include
         subset.push_back(candidates[index]);
         recursion(index+1,candidates,ans,subset);
-        //exclude
         subset.pop_back();
-         //find duplicates and skip them at same recursion lvel so that in output no 2 subsets are same 
-        while (index+1<candidates.size()&& candidates[index]==candidates[index+1]){
+        while(index+1<candidates.size() && candidates[index]==candidates[index+1]){
             index++;
         }
-
         recursion(index+1,candidates,ans,subset);
 
 
