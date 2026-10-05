@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0053-maximum-subarray) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0079-word-search) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0070-climbing-stairs) |
