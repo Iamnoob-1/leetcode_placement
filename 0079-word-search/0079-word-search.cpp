@@ -2,17 +2,12 @@ class Solution {
 public:
     bool recursion(vector<vector<char>>&board,string word,int i,int j,int index,vector<vector<bool>>&visited){
         if (index==word.size())return true;
-        if (i<0 || i>=board.size()||j<0 ||j>=board[0].size())return false;
+        if (i<0 || i>=board.size() || j<0 || j>=board[0].size() || board[i][j]!=word[index])return false;
         if (visited[i][j])return false;
-        if (board[i][j]!=word[index])return false;
-
         visited[i][j]=true;
-        bool found=recursion(board, word, i + 1, j, index + 1, visited) ||
-            recursion(board, word, i - 1, j, index + 1, visited) ||
-            recursion(board, word, i, j + 1, index + 1, visited) ||
-            recursion(board, word, i, j - 1, index + 1, visited);
+        bool ans= (recursion(board,word,i,j+1,index+1,visited)||recursion(board,word,i+1,j,index+1,visited)||recursion(board,word,i-1,j,index+1,visited)||recursion(board,word,i,j-1,index+1,visited));
         visited[i][j]=false;
-        return found;
+        return ans;
     }
     bool exist(vector<vector<char>>& board, string word) {
         if (word=="")return false;
