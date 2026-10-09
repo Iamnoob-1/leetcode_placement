@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1046-last-stone-weight) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1143-longest-common-subsequence) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Iamnoob-1/leetcode_placement/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/Iamnoob-1/leetcode_placement/tree/master/1162-as-far-from-land-as-possible) |
